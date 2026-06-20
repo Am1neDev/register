@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "Am1neDev",
+    "email": "joe@joeneilaustin.com"
+  },
+  "records": {
+    "CNAME": "student-course-portal-mfkp.onrender.com"
+  },
+  "proxied": false
+}
